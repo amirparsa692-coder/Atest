@@ -1,0 +1,1 @@
+"""Technamooz panel application package."""
